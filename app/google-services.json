@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1089368930637",
+    "firebase_url": "https://artoku-849f7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "artoku-849f7",
+    "storage_bucket": "artoku-849f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089368930637:android:481ab815a9e397b54a1f04",
+        "android_client_info": {
+          "package_name": "com.myapp.Artoku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1089368930637-7b7o6ie70buakp715ttu3gdjbalhm58t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYf4mLrwSzmV4rubNG-vT-yC8Eg8fvQgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1089368930637-7b7o6ie70buakp715ttu3gdjbalhm58t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
